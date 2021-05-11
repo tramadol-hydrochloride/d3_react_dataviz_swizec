@@ -9,7 +9,7 @@
     "browserify-fs": "^1.0.0",
     "d3": "^5.16.0",
     "fs": "0.0.1-security",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.0",
